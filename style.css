@@ -6,8 +6,8 @@ body {
 h1 {
   text-align: center;
 }
-img {
-  images center;
+figure {
+  img: center;
 }
 nav {
   text-align: center;
