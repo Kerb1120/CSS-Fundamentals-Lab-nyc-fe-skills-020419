@@ -7,7 +7,7 @@ h1 {
   text-align: center;
 }
 img {
-  background-image: center;
+  image-rendering: center;
 }
 nav {
   
