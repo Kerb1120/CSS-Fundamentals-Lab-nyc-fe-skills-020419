@@ -7,7 +7,7 @@ h1 {
   text-align: center;
 }
 img {
-  align-content: center;
+  image-rendering: center;
 }
 nav {
   
