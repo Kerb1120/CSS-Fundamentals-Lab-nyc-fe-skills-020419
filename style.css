@@ -28,4 +28,6 @@ p#featured-property{
 div {
   display: block;
   float: left;
+  background-color: blue;
+  width: 25px;
 }
