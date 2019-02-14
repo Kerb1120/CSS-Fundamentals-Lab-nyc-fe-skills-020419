@@ -25,9 +25,10 @@ p#featured-property{
   width: 800px;
   text-align: center;
 }
-div {
+#details {
   display: block;
-  float: left;
+  }
+  #details div{
+    float: left;
   background-color: grey;
-  
 }
